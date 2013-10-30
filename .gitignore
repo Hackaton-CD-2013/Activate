@@ -10,3 +10,6 @@ bower_components/
 
 # NPM
 node_modules/
+
+# Jekyll built
+_site/
