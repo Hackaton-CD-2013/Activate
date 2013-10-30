@@ -23,6 +23,7 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "~3.0.1"
+    "bootstrap": "~3.0.1",
+    "angularjs": "*"
   }
 }
