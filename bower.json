@@ -1,0 +1,25 @@
+{
+  "name": "Activate",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Hackaton-CD-2013/Activate",
+  "authors": [
+    "stefanmaric <alexstefan92@gmail.com>"
+  ],
+  "description": "Agregador de encuentros culturales, dirigido por la comunidad. Nacido en el primer Hackatón de Venezuela.",
+  "keywords": [
+    "events",
+    "social",
+    "cultural",
+    "mobile",
+    "venezuela"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
