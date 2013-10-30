@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/Hackaton-CD-2013/Activate/issues"
   },
-  "homepage": "https://github.com/Hackaton-CD-2013/Activate"
+  "homepage": "https://github.com/Hackaton-CD-2013/Activate",
+  "dependencies": {
+    "jade": "*",
+    "stylus": "*"
+  }
 }
