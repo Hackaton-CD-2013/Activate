@@ -1,0 +1,9 @@
+.*
+!.gitignore
+*~
+
+# SublimeText project files
+*.sublime-workspace
+
+# Bower
+bower_components/
