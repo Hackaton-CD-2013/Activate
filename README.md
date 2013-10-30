@@ -1,6 +1,6 @@
 ## Activate
 
-Agregador de encuentros culturales, dirigido por la comunidad.
+Agregador de encuentros culturales, dirigido por la comunidad. Nacido en el primer Hackatón de Venezuela. 
 
 ### Filosofía
 
