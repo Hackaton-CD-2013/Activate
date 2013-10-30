@@ -1,0 +1,23 @@
+{
+  "name": "Activate",
+  "version": "0.0.1",
+  "description": "Agregador de encuentros culturales, dirigido por la comunidad. Nacido en el primer Hackatón de Venezuela.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hackaton-CD-2013/Activate.git"
+  },
+  "keywords": [
+    "events",
+    "social",
+    "cultural",
+    "mobile",
+    "venezuela"
+  ],
+  "author": "stefanmaric, robervs, cesarmalpica",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hackaton-CD-2013/Activate/issues"
+  },
+  "homepage": "https://github.com/Hackaton-CD-2013/Activate"
+}
