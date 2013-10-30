@@ -1,0 +1,15 @@
+.*
+!.gitignore
+*~
+
+# SublimeText project files
+*.sublime-workspace
+
+# Bower
+bower_components/
+
+# NPM
+node_modules/
+
+# Jekyll built
+_site/

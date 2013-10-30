@@ -1,0 +1,6 @@
+source:      ./jekyll
+destination: ./jekyll/_site
+plugins:     ./jekyll/_plugins
+layouts:     ./jekyll/_layouts
+port:        4000
+baseurl:     /
