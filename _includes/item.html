@@ -1,8 +1,8 @@
 <div class="event">
-	<h3>Evento</h3>
-	<p>Descripción Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde ...</p>
-	<p>Fecha</p>
-	<p>Lugar de ejemplo</p>
-	<p>Audiencia</p>
-	<a class="btn btn-default">link</a>
+	<h3>{{ "{{  e.name " }}}}</h3>
+	<p>{{ "{{  e.desc " }}}}</p>
+	<p>{{ "{{  e.date | date:human:small " }}}}</p>
+	<p>{{ "{{  e.location | parsecoordinates " }}}}</p>
+	<p>{{ "{{  e.audience " }}}}</p>
+	<a ng-repeat="l in e.links" class="btn btn-default {{ "{{  getType(l) " }}}}" href="l"> {{ "{{  getType(l) " }}}} </a>
 </div>
