@@ -1,6 +1,3 @@
-source:      ./jekyll
-destination: ./jekyll/_site
-plugins:     ./jekyll/_plugins
-layouts:     ./jekyll/_layouts
-port:        4000
-baseurl:     /
+source:         ./
+destination:    ./_site
+exclude:        [".editorconfig", ".gitignore", "bower.json","LICENSE.md","package.json", "node_modules", "README.md", "bower_components"]
