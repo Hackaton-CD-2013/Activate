@@ -1,0 +1,8 @@
+<div class="event">
+	<h3>{{ "{{  e.name " }}}}</h3>
+	<p>{{ "{{  e.desc " }}}}</p>
+	<p>{{ "{{  e.date | date:human:small " }}}}</p>
+	<p>{{ "{{  e.location | parsecoordinates " }}}}</p>
+	<p>{{ "{{  e.audience " }}}}</p>
+	<a ng-repeat="l in e.links" class="btn btn-default {{ "{{  getType(l) " }}}}" href="l"> {{ "{{  getType(l) " }}}} </a>
+</div>

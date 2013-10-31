@@ -1,0 +1,9 @@
+header h1 {
+  text-transform: uppercase;
+  letter-spacing: -2px;
+}
+
+header p {
+  font-size: 22px;
+  padding-top: 24px;
+}
